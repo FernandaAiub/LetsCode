@@ -33,6 +33,6 @@ print(type(estudando))
 
 linguagem = input("Qual é a linguagem de programação que você está estudando?")
 
-print("A lignuagem que você está estudando é: ", linguagem, ".")
+print("A lignuagem que você está estudando é:", linguagem)
 
 # Imprimindo variáveis + Mais sobre a função print
